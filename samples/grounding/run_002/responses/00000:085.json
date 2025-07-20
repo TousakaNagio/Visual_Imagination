@@ -1,0 +1,5 @@
+{
+    "task_id": "00000:085",
+    "response": "The image contains two distinct objects:\n\n1. A blue circular object located towards the upper right.\n2. A smaller green circular object located towards the upper left.\n\nThere are no other objects or colors present in the image.\n\nHere is the position of the objects in JSON format:\n\n```json\n[\n    {\"bbox_2d\": [305, 24], \"label\": \"blue circular object\"},\n    {\"bbox_2d\": [168, 47], \"label\": \"green circular object\"}\n]\n```<|im_end|>",
+    "output_json": "The image contains two distinct objects:\n\n1. A blue circular object located towards the upper right.\n2. A smaller green circular object located towards the upper left.\n\nThere are no other objects or colors present in the image.\n\nHere is the position of the objects in JSON format:\n\n```json\n[\n    {\"bbox_2d\": [305, 24], \"label\": \"blue circular object\"},\n    {\"bbox_2d\": [168, 47], \"label\": \"green circular object\"}\n]\n```<|im_end|>"
+}

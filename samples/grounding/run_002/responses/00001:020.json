@@ -1,0 +1,5 @@
+{
+    "task_id": "00001:020",
+    "response": "The image contains the following elements:\n\n1. A blue vertical line on the left side.\n2. A small green circle near the bottom center of the image.\n3. A black horizontal line at the bottom of the image.\n\nHere is the position of these objects in JSON format:\n\n```json\n[\n    {\"bbox_2d\": [0, 0, 58, 364], \"label\": \"blue vertical line\"},\n    {\"bbox_2d\": [37, 309, 58, 330], \"label\": \"green circle\"},\n    {\"bbox_2d\": [0, 309, 58, 364], \"label\": \"black horizontal line\"}\n]\n```<|im_end|>",
+    "output_json": "The image contains the following elements:\n\n1. A blue vertical line on the left side.\n2. A small green circle near the bottom center of the image.\n3. A black horizontal line at the bottom of the image.\n\nHere is the position of these objects in JSON format:\n\n```json\n[\n    {\"bbox_2d\": [0, 0, 58, 364], \"label\": \"blue vertical line\"},\n    {\"bbox_2d\": [37, 309, 58, 330], \"label\": \"green circle\"},\n    {\"bbox_2d\": [0, 309, 58, 364], \"label\": \"black horizontal line\"}\n]\n```<|im_end|>"
+}
